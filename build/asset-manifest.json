@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portaljob-jobsku/static/css/main.90d3e6ac.css",
+    "main.js": "/portaljob-jobsku/static/js/main.b837709f.js",
+    "static/js/787.0fe84981.chunk.js": "/portaljob-jobsku/static/js/787.0fe84981.chunk.js",
+    "static/media/logo.svg": "/portaljob-jobsku/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portaljob-jobsku/index.html",
+    "main.90d3e6ac.css.map": "/portaljob-jobsku/static/css/main.90d3e6ac.css.map",
+    "main.b837709f.js.map": "/portaljob-jobsku/static/js/main.b837709f.js.map",
+    "787.0fe84981.chunk.js.map": "/portaljob-jobsku/static/js/787.0fe84981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90d3e6ac.css",
+    "static/js/main.b837709f.js"
+  ]
+}
